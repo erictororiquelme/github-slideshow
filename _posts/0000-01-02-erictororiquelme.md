@@ -3,4 +3,4 @@ layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
 Halloow
-Utiliza la flecha hacia la izquierda para volver!<button>Volver</button
+Utiliza la flecha hacia la izquierda para volver!
